@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8fe2dae4-636e-4462-b984-ddaebef860f9",
+    "bookId": "39216269-ae19-4fc9-b22a-57e7a6894c07",
+    "client_name": "Jahongir",
+    "client_phone": 998998887766,
+    "quantity": 1,
+    "address": "Yashnobod tumani  olmos mahallasi",
+    "totalPrice": 74900,
+    "status": "new"
+  },
+  {
+    "id": "0546b8b1-bb38-4d11-8764-2b34a75482ad",
+    "bookId": "39216269-ae19-4fc9-b22a-57e7a6894c07",
+    "client_name": "Oxunjon",
+    "client_phone": 998991853703,
+    "quantity": 1,
+    "address": "Yashnobod tumani  olmos mahallasi",
+    "totalPrice": 74900,
+    "status": "on_way"
+  }
+]
